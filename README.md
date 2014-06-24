@@ -12,7 +12,8 @@
  - All players are required to stream their Hearthstone client to WellPlayed’s servers
 
 ###Schedule
-http://wpchs.wellplayed.org/schedule
+Full schedule: http://wpchs.wellplayed.org/schedule
+
 Games will start 10 minutes before the times listed on the schedule to account for the stream delay.
 
 ###Format
