@@ -26,7 +26,7 @@ Games will start 10 minutes before the times listed on the schedule to account f
 
 ###Rules
 1. Checking In
-  1. Players in the first match of the day must must check in 20 minutes before the times listed on the schedule or they will be considered late.
+  1. Players in the first match of the day must check in 20 minutes before the times listed on the schedule or they will be considered late.
   2. Games will start 10 minutes before times listed on the website to account for stream delay
   3. Players will be considered late for the following matches 10 minutes after the previous series has ended.
 2. Lateness
