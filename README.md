@@ -36,9 +36,10 @@ Games will start 10 minutes before the times listed on the schedule to account f
 3. Receiving Messages
   1. Players who receive any messages in game from anyone other than tournament officials will forfeit the current game.
 4. Decks
-  1. Players must provide their decks to WellPlayed by 10AM PDT the day of the matches
-  2. If players miss the deadline they must play with the same deck list as the previous day
-  3. Playing cards not listed in your provided deck will result in a game forfeiture
+  1. Players must provide their decks to WellPlayed 3 hours before the scheduled start time of the first match of the day
+  2. Decks can be sent to colin.kierans@wellplayed.org
+  3. If players miss the deadline they must play with the same deck list as the previous day
+  4. Playing cards not listed in your provided deck will result in a game forfeiture
 
 
 ###Streaming
