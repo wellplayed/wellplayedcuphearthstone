@@ -23,6 +23,7 @@ Games will start 10 minutes before the times listed on the schedule to account f
  - Two additional decks must be provided for Sunday for the Bo7 Grand Finals
  - Blind deck pick for 1st game
  - Game winner keeps the same deck, loser picks a new deck
+ - If both players wish to play on EU servers they may do so, otherwise the default is the NA server
 
 ###Rules
 1. Checking In
