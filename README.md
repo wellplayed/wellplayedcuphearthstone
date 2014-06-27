@@ -36,7 +36,7 @@ Games will start 10 minutes before the times listed on the schedule to account f
   3. Players who are more than 20 minutes late will forfeit the series.
 3. Receiving Messages
   1. Players will receive 1 warning if they receive a (non-game-related) message in game. After 2 warnings in one day, any further messages will result in a forfeit of the current game.
-  2. Players who receive messages containin game information will forfeit the current game.
+  2. Players who receive messages containing game information will forfeit the current game.
 4. Decks
   1. Players must provide their decks to WellPlayed 3 hours before the scheduled start time of the first match of the day
   2. Decks can be sent to colin.kierans@wellplayed.org
