@@ -21,7 +21,8 @@ Games will start 10 minutes before the times listed on the schedule to account f
  - Decks can be completely changed from day to day
  - No duplicate classes
  - Grand finals is Bo7 starting at 0:0
- - Two additional decks must be provided for Sunday for the Bo7 Grand Finals
+ - One additional deck must be provided for Sunday for the Bo7 Grand Finals
+ - The additional deck can only be used for the Grand Finals
  - Blind deck pick for 1st game
  - Game winner keeps the same deck, loser picks a new deck
  - If both players wish to play on EU servers they may do so, otherwise the default is the NA server
